@@ -16,6 +16,6 @@ public class Prob1 {
 		}else {
 			
 		}
-			
+		scanner.close();
 	}
 }
